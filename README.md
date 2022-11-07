@@ -202,6 +202,7 @@ int main(){
  
 ## Tabulations and graph 
 	
+![image](https://user-images.githubusercontent.com/94165108/200334787-beb539af-817d-41b9-b793-a1074b6ecf26.png)
 
  ![image](https://user-images.githubusercontent.com/36288975/198947184-dbccf4b1-10a1-4090-a670-93526ed6e597.png)
 
